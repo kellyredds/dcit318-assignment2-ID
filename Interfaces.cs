@@ -29,4 +29,7 @@ class Program
         Bicycle bicycle = new Bicycle();
 
         car.Move();        // Output: Car is moving
+
         bicycle.Move();    // Output: Bicycle is
+    }
+    }
