@@ -44,5 +44,7 @@ class Program
     {
         Circle circle = new Circle(5);
 
-        Rectangle rectangle = new Rectangle(4, 6);}
+        Rectangle rectangle = new Rectangle(4, 6);
+    }
 }
+
