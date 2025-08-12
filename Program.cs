@@ -31,5 +31,7 @@ class Program
     static void Main()
     {
         // Create instances of Animal, Dog, and Cat
-        Animal genericAnimal = new Animal();
+        Animal genericAnimal = new Animal();}
+}
+
         Dog dog = new Dog();
