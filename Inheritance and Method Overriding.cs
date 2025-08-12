@@ -33,5 +33,7 @@ class Program
         // Create instances of Animal, Dog, and Cat
         Animal genericAnimal = new Animal();
 
-        Dog dog = new Dog();}
+        Dog dog = new Dog();
+    }
 }
+
